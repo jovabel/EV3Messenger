@@ -28,7 +28,7 @@ The EV3MessengerLib contains 2 public classes for communicating with the EV3.
 ## The protocol
 The protocol used is described in [FieldInfo.cs](src/EV3MessengerLib/Protocol/FieldInfo.cs).
 
-The protocol of the current (and working) EV3Messenger version was derived by sniffing the serial-over-bluetooth connection of a Mindstorms EV3 that was connected to a PC.
+The protocol of the current (and working) EV3Messenger version was derived by sniffing the serial-over-bluetooth connection of a Mindstorms EV3 that was connected to a PC. See also c_com.h from the EV3 firmware.
 
 At the moment the Mindstorms EV3 source code is being investigated to make an even better :-) implementation of the protocol. 
 
