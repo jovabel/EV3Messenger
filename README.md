@@ -13,6 +13,8 @@ Notes
 * Lego did not release the bluetooth protocol of the EV3 yet. So this program was made after sniffing the serial communication. It's a functional proof of concept :-)
 * Direct commands are not supported.
 
+A short doc file that should get you up and running with the code can be found [here](DOCS.md)
+
 More to follow.... need some time (who doesn't)!
 
 Have fun!  
